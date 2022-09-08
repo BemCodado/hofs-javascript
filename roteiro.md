@@ -12,3 +12,14 @@
 * find
 * filter
 * forEach
+
+# Rofs JavaScript - parte 2
+
+## Metodos:
+* Array.prototype.map
+* Array.prototype.reduce
+
+## Exemplos
+* map
+* reduce
+
